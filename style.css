@@ -12,6 +12,7 @@ body, html{
     box-sizing: border-box;
     border-radius: 10px;
     overflow: hidden;
+    background-color: white;
 }
 .img{
     width: 100%;
@@ -105,7 +106,7 @@ h1{
 .maincontainer{
     width:600px;
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr 1fr;
     justify-self: center;
 }
 section{
