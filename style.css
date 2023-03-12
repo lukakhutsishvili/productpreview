@@ -6,6 +6,7 @@ body, html{
     display:grid;
     align-items: center;
     justify-content: center;
+    background-color:#F2EAE2;
 }
 .maincontainer{
     box-sizing: border-box;
